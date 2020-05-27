@@ -13,6 +13,7 @@
         font-size: 20px;
         float: left;}
       
+        
        */
 
       .button{width:75px;background-color:coral;
@@ -27,4 +28,5 @@
         .button:not(:last-child) {
             border-right: none;background-color: lightgray; }
 
+            
          
